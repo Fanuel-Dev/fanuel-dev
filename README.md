@@ -99,55 +99,17 @@
 
 ---
 
-### 📊 Real-Time Infrastructure Analytics
 
-<h3 align="center">🏆 System Milestone Achievements</h3>
-<p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=FanuelBelay&no-bg=true&row=1&column=6&theme=dracula&margin-w=15">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=FanuelBelay&no-bg=true&row=1&column=6&margin-w=15">
-      <img alt="System Milestone Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=FanuelBelay&no-bg=true&no-frame=true&row=1&column=6">
-    </picture>
-</p>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>📈 Core Codebase Engine Analytics</h4>
-      <a href="https://github.com/FanuelBelay">
-        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=FanuelBelay&count_private=true&show_icons=true&theme=tokyonight&bg_color=0f141c&title_color=7aa2f7&text_color=acb0d0&icon_color=7aa2f7&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged" width="95%" alt="Core GitHub Telemetry" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>🔥 Active Development Streak</h4>
-      <a href="https://github.com/FanuelBelay">
-        <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=FanuelBelay&theme=tokyonight&background=0f141c&fire=ff9e64&ring=7aa2f7&sideNums=acb0d0&sideLabels=acb0d0&dates=b4f9c8&currStreakNum=7aa2f7" width="95%" alt="Active Engine Build Streak" />
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td width="50%" align="center" valign="top"><br>
-      <h4>📍 Featured Production Project</h4>
-      <a href="https://github.com/FanuelBelay/storyblok-mcp-server">
-        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=FanuelBelay&repo=storyblok-mcp-server&theme=tokyonight&bg_color=0f141c&title_color=7aa2f7&text_color=acb0d0&icon_color=7aa2f7" width="95%" alt="Featured Repository Showcase" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top"><br>
-      <h4>💎 High-Impact Contributions Grid</h4>
-      <a href="https://github.com/FanuelBelay">
-        <img src="https://github-repository-contribution-stat-green.vercel.app/api?username=FanuelBelay&limit=2&theme=tokyonight&bg_color=0f141c&title_color=7aa2f7&text_color=acb0d0" width="95%" alt="Top Engineering Contributions" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+
+  
+ 
+ 
 
 ---
 
-### 📈 System Activity Waveform
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FanuelBelay&bg_color=0f141c&color=7aa2f7&line=7aa2f7&point=ff9e64&area=true&hide_border=true" style="border-radius: 8px;" width="100%" alt="Global Commit Waveform Graph">
-</p>
 
 ---
 
